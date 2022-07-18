@@ -1,0 +1,17 @@
+# -------------------------------------
+# Initialize
+# -------------------------------------
+# Blacklist everything
+*
+# Whitelist all directories
+!*/
+
+# -------------------------------------
+# Whitelist the files I'm interested in
+# -------------------------------------
+
+# Repo Metadata
+# -------------
+!.gitignore
+!README.md
+
